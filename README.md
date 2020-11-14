@@ -1,2 +1,4 @@
 # Hello-World
-following instruction provided at help button. 
+newly added reporsitory.
+following instruction provided at https://guides.github.com/activities/hello-world/. 
+Thanks
